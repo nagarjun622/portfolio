@@ -14,7 +14,7 @@ Hi, I am Nagarjun Maharana, a Computer Science student interested in Data Scienc
 - JavaScript
 
 ##  Live Project
-(Add later if you deploy)
+https://nagarjun-portfoli.netlify.app
 
 ##  GitHub Repository
 https://github.com/nagarjun622/portfolio
